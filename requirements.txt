@@ -1,0 +1,17 @@
+torch
+torchvision
+numpy
+dataclasses
+Pillow
+matplotlib
+seaborn
+loguru
+opencv-python
+torchcam
+torch-summary
+tqdm
+pycocotools
+numpy
+scipy
+scikit-image
+libsvm
